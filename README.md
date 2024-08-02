@@ -1,4 +1,4 @@
-# Cloud-based File Storage System
+# Cloud-Based File Storage System
 
 ## Project Description
 
